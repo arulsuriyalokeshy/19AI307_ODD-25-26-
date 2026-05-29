@@ -1,8 +1,8 @@
-# 19AI307 - Java Programming Laboratory (ODD 2025-2026)
+# 19AI307 – Object Oriented Programming using Java
 
 ## Overview
 
-This repository contains Java Programming Laboratory programs, exercises, assignments, quizzes, and module-wise practice codes for the course **19AI307 - Java Programming** during the academic year **2025-2026**.
+This repository contains Java Programming Laboratory programs, exercises, assignments, quizzes, and module-wise practice codes for the course **19AI307 – Object Oriented Programming using Java** 
 
 The repository is organized module-wise to help students understand core Java concepts progressively from basics to advanced Object-Oriented Programming concepts.
 
